@@ -1,0 +1,28 @@
+[08-Apr-2021 05:01:18 UTC] Unable to find template "mod_page_install_index.php" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[08-Apr-2021 05:01:18 UTC] Page /install/index.php not found
+[08-Apr-2021 05:01:39 UTC] Please check your login details 403
+[08-Apr-2021 05:02:36 UTC] Invalid module name
+[08-Apr-2021 05:02:36 UTC] Unable to find template "mod_page_css_style.css" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[08-Apr-2021 05:02:36 UTC] Page /css/style.css not found
+[08-Apr-2021 05:02:37 UTC] Unable to find template "mod_page_favicon.ico" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[08-Apr-2021 05:02:37 UTC] Page /favicon.ico not found
+[08-Apr-2021 05:02:44 UTC] Unable to find template "mod_page_css_style.css" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[08-Apr-2021 05:02:44 UTC] Page /css/style.css not found
+[08-Apr-2021 05:03:10 UTC] Invalid module name
+[08-Apr-2021 05:03:10 UTC] Unable to find template "mod_page_css_style.css" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[08-Apr-2021 05:03:10 UTC] Page /css/style.css not found
+[11-Apr-2021 19:28:22 UTC] Unable to find template "mod_page_favicon.ico" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[11-Apr-2021 19:28:22 UTC] Page /favicon.ico not found
+[11-Apr-2021 19:29:20 UTC] Unable to find template "mod_page_bb.phtml" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[11-Apr-2021 19:29:20 UTC] Page /bb not found
+[11-Apr-2021 19:32:12 UTC] Unable to find template "mod_page_bb.phtml" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[11-Apr-2021 19:32:12 UTC] Page /bb not found
+[11-Apr-2021 19:32:26 UTC] Invalid module name
+[11-Apr-2021 19:32:27 UTC] Unable to find template "mod_page_css_style.css" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[11-Apr-2021 19:32:27 UTC] Page /css/style.css not found
+[11-Apr-2021 19:32:36 UTC] Unable to find template "mod_page_landingpage.phtml" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[11-Apr-2021 19:32:36 UTC] Page /landingpage not found
+[11-Apr-2021 19:33:03 UTC] Unable to find template "mod_page_landingpage.phtml" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[11-Apr-2021 19:33:03 UTC] Page /landingpage not found
+[11-Apr-2021 19:37:45 UTC] Unable to find template "mod_page_landingpage.phtml" (looked into: /var/www/html/bb-themes/boxbilling/html, /var/www/html/bb-modules/Page/html_client).
+[11-Apr-2021 19:37:45 UTC] Page /landingpage not found
